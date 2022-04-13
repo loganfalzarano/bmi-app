@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/loganfalzarano/bmi-app/issues"
   },
-  "homepage": "https://github.com/loganfalzarano/bmi-app#readme"
+  "homepage": "https://github.com/loganfalzarano/bmi-app#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
